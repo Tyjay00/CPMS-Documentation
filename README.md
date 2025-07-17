@@ -4,7 +4,7 @@ This document provides a step-by-step guide on how to perform a Cloud Security P
 
 
 ## 🔗 Project Website  
-Check out the live demo here: [CSPM] (https://cspm.tyrones.codes/)
+Check out the live demo here: [CSPM-Website](https://cspm.tyrones.codes/)
 
 ---
 **Goal:** Identify misconfigurations, compliance violations, and security risks in your cloud environment.
